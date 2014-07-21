@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre_usuario: Luis
+  contrasena: 123
+  nombre: Luis Gerardo Perez
+
+two:
+  nombre_usuario: mpereira
+  contrasena: Maria
+  nombre: Maria Pereira
